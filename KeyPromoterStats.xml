@@ -1,0 +1,11 @@
+<application>
+  <component name="KeyPromoterStats">
+    <option name="stats">
+      <map>
+        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="1" />
+        <entry key="'Ctrl+Shift+C'" value="1" />
+        <entry key="'Shift+F6'" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
